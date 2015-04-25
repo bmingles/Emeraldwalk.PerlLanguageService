@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{94372978-7FF5-4577-B956-8B233457FB65}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emeraldwalk.PerlLanguageService", "Emeraldwalk.PerlLanguageService\Emeraldwalk.PerlLanguageService.csproj", "{4442C667-33E9-451C-9416-BD0A539EF66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emeraldwalk.PerlLanguageService._Tests", "Emeraldwalk.PerlLanguageService._Tests\Emeraldwalk.PerlLanguageService._Tests.csproj", "{870E4324-70C8-4356-A416-27F103C935EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Releases", "Releases", "{1087786A-7ECE-4A19-BFFF-25573E2315B7}"
+	ProjectSection(SolutionItems) = preProject
+		Releases\Emeraldwalk.PerlLanguageService-1.0.0.vsix = Releases\Emeraldwalk.PerlLanguageService-1.0.0.vsix
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4442C667-33E9-451C-9416-BD0A539EF66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4442C667-33E9-451C-9416-BD0A539EF66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4442C667-33E9-451C-9416-BD0A539EF66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4442C667-33E9-451C-9416-BD0A539EF66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870E4324-70C8-4356-A416-27F103C935EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870E4324-70C8-4356-A416-27F103C935EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870E4324-70C8-4356-A416-27F103C935EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870E4324-70C8-4356-A416-27F103C935EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
