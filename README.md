@@ -1,8 +1,6 @@
-# Emeraldwalk - Language Services README
-===========
-## Perl Language Service
+# Perl Language Service - README
 
-Emeraldwalk.LanguageServices is a **Perl language service** extension for Visual Studio.
+Emeraldwalk.PerlLanguageService is a **Perl language service** extension for Visual Studio.
 
 ### Implemented Features
 * Perl syntax highlighting
